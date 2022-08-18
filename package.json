@@ -1,0 +1,24 @@
+{
+  "name": "rando-message",
+  "version": "1.0.0",
+  "description": "Random,message",
+  "main": "/src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Lautaro Els <els.lautaro@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauti2804/PracticandoConNPM.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Lauti2804/PracticandoConNPM/issues"
+  },
+  "homepage": "https://github.com/Lauti2804/PracticandoConNPM#readme"
+}
